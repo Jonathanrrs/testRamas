@@ -1,6 +1,4 @@
-body {
-    background-color: red;
-}
-h1 {
-    color: blue;
-}
+#the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+  }

@@ -1,4 +1,11 @@
 #the-canvas {
-    border: 1px solid black;
-    direction: ltr;
-  }
+  border: 1px solid black;
+  direction: ltr;
+}
+
+.rebase {
+  font-size: 40px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  direction: ltr;
+}
